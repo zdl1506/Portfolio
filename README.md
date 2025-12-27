@@ -9,4 +9,6 @@
 
 **Highlights:**
 
-➡️ Repository: https://github.com/zdl1506/customer-churn-analysis
+➡️ Repository: https://github.com/zdl1506/Customer-Churn-Analysis-Project
+
+### 

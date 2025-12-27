@@ -11,4 +11,10 @@
 
 ➡️ Repository: https://github.com/zdl1506/Customer-Churn-Analysis-Project
 
-### 
+### Sentiment Analysis on Amazon Product Reviews (Final Capstone Project)
+
+**Tools:**
+**Focus:**
+
+**Highlights:**
+➡️ Repository: https://github.com/zdl1506/final_capstone

@@ -17,4 +17,4 @@
 **Focus:**
 
 **Highlights:**
-➡️ Repository: https://github.com/zdl1506/final_capstone
+➡️ Repository: https://github.com/zdl1506/finalCapstone
